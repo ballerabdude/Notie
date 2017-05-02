@@ -87,7 +87,7 @@ open class Notie : UIView {
 
     fileprivate var bottomConstraint: NSLayoutConstraint?
 
-    fileprivate var inputField: UITextField?
+    public var inputField: UITextField?
 
     // MARK: Life Cycle
 
